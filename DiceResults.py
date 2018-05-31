@@ -139,4 +139,4 @@ def roll(blue, green, yellow, black, purple, red):
 
 
 
-print(roll(0, 0, 0, 0, 1, 0)) #testing functions. at first glance, they work.
+#print(roll(0, 0, 0, 0, 1, 0)) #testing functions. at first glance, they work.
